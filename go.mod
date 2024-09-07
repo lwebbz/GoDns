@@ -1,3 +1,3 @@
-module github.com/lwebbz/Godns
+module github.com/lwebbz/GoDns
 
 go 1.22.1
